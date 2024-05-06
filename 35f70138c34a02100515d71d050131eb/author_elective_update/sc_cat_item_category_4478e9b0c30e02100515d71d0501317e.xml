@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="ダウンロード_AESのDefault view">8df761f0c30e02100515d71d05013129</sc_cat_item>
+        <sc_category display_value="ServiceNow研修用">fdb16978c3ca02100515d71d05013131</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-06 06:05:00</sys_created_on>
+        <sys_id>4478e9b0c30e02100515d71d0501317e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow研修用.ダウンロード_AESのDefault view</sys_name>
+        <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+        <sys_update_name>sc_cat_item_category_4478e9b0c30e02100515d71d0501317e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-06 06:05:00</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tst_2405">35f70138c34a02100515d71d050131eb</application>
+        <file_path/>
+        <instance_id>f84aa4ab1b2d4e9865324089bd4bcb9b</instance_id>
+        <instance_name>dev260694</instance_name>
+        <name>sc_cat_item_category_4478e9b0c30e02100515d71d0501317e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="ダウンロード_AESのDefault view">8df761f0c30e02100515d71d05013129</sc_cat_item><sc_category display_value="ServiceNow研修用">fdb16978c3ca02100515d71d05013131</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-06 06:05:00</sys_created_on><sys_id>4478e9b0c30e02100515d71d0501317e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ServiceNow研修用.ダウンロード_AESのDefault view</sys_name><sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package><sys_policy/><sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope><sys_update_name>sc_cat_item_category_4478e9b0c30e02100515d71d0501317e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-06 06:05:00</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1905935574</payload_hash>
+        <record_name>ServiceNow研修用.ダウンロード_AESのDefault view</record_name>
+        <reverted_from/>
+        <source>75f70138c34a02100515d71d050131ed</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-06 06:05:00</sys_created_on>
+        <sys_id>0078e9f0c30e02100515d71d050131bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f4c8167b10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-06 06:05:00</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>0478e9f07a0e021000bcd04fd9f7fdbb</update_guid>
+        <update_guid_history>0478e9f07a0e021000bcd04fd9f7fdbb:-1905935574</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ServiceNow研修用.ダウンロード_AESのDefault view">e3f8edf0c30e02100515d71d050131f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-06 06:07:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>b6e4e118ddd146d28cda353fc6074a44</sys_id>
+        <sys_metadata>4478e9b0c30e02100515d71d0501317e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow研修用.ダウンロード_AESのDefault view</sys_name>
+        <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+        <sys_scope_delete display_value="">21501267586c4f6aa7051cb0969aece4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_4478e9b0c30e02100515d71d0501317e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_4478e9b0c30e02100515d71d0501317e">0078e9f0c30e02100515d71d050131bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-06 06:07:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_846092_tst_2405_task_p000120" version="2" view="download_view">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_846092_tst_2405_task_p000120" element="NULL" name="x_846092_tst_2405_task_p000120" parent="NULL" relationship="NULL" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">69d92974c30e02100515d71d050131ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:11:07</sys_created_on>
+            <sys_id>a5d96974c30e02100515d71d05013100</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:11:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>futan_num</element>
+            <list_id display_value="x_846092_tst_2405_task_p000120" element="NULL" name="x_846092_tst_2405_task_p000120" parent="NULL" relationship="NULL" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">69d92974c30e02100515d71d050131ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:11:07</sys_created_on>
+            <sys_id>a9d96974c30e02100515d71d05013100</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:11:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>keihi_type</element>
+            <list_id display_value="x_846092_tst_2405_task_p000120" element="NULL" name="x_846092_tst_2405_task_p000120" parent="NULL" relationship="NULL" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">69d92974c30e02100515d71d050131ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:11:07</sys_created_on>
+            <sys_id>add96974c30e02100515d71d05013100</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:11:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>harai_riyu</element>
+            <list_id display_value="x_846092_tst_2405_task_p000120" element="NULL" name="x_846092_tst_2405_task_p000120" parent="NULL" relationship="NULL" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">69d92974c30e02100515d71d050131ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:11:07</sys_created_on>
+            <sys_id>a1d96974c30e02100515d71d05013101</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:11:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>harai_kingaku</element>
+            <list_id display_value="x_846092_tst_2405_task_p000120" element="NULL" name="x_846092_tst_2405_task_p000120" parent="NULL" relationship="NULL" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">69d92974c30e02100515d71d050131ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:11:07</sys_created_on>
+            <sys_id>a5d96974c30e02100515d71d05013101</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:11:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_846092_tst_2405_task_p000120</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:11:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69d92974c30e02100515d71d050131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_846092_tst_2405_task_p000120</sys_name>
+            <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+            <sys_update_name>sys_ui_list_x_846092_tst_2405_task_p000120_download_view</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:11:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="download view" name="download_view">e1a9adf0c30e02100515d71d050131ea</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

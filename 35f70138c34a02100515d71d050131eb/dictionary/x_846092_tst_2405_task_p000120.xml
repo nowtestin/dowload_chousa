@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="856f9d74c3ca02100515d71d0501317f" extends="task" label="Task_P000120" max_length="40" name="x_846092_tst_2405_task_p000120" type="collection">
+        <element label="coment" max_length="4000" name="coment" type="string"/>
+        <element label="futan num" mandatory="true" max_length="120" name="futan_num" type="string"/>
+        <element label="harai date" max_length="40" name="harai_date" type="glide_date"/>
+        <element label="harai kingaku" max_length="120" name="harai_kingaku" type="string"/>
+        <element label="harai riyu" max_length="1200" name="harai_riyu" type="string"/>
+        <element choice="1" label="keihi type" max_length="40" name="keihi_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="直接経費" language="jp" value="1"/>
+                <element inactive_on_update="false" label="直接経費" value="1"/>
+                <element inactive_on_update="false" label="間接経費" value="2"/>
+                <element inactive_on_update="false" label="間接経費" language="jp" value="2"/>
+            </choice>
+        </element>
+        <element label="shouninsha" max_length="32" name="shouninsha" reference="sys_user" type="reference"/>
+    </element>
+</database>

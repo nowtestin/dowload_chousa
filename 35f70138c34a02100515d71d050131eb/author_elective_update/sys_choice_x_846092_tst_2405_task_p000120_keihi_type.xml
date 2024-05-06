@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="keihi_type" table="x_846092_tst_2405_task_p000120" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>keihi_type</element>
+            <name>x_846092_tst_2405_task_p000120</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 05:41:16</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>keihi_type</sys_name>
+            <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+            <sys_update_name>sys_choice_x_846092_tst_2405_task_p000120_keihi_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 05:41:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keihi_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>直接経費</label>
+            <language>en</language>
+            <name>x_846092_tst_2405_task_p000120</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 05:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 05:41:16</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keihi_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>直接経費</label>
+            <language>jp</language>
+            <name>x_846092_tst_2405_task_p000120</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 05:41:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 05:41:36</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keihi_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>間接経費</label>
+            <language>en</language>
+            <name>x_846092_tst_2405_task_p000120</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 05:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 05:41:49</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>keihi_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>間接経費</label>
+            <language>jp</language>
+            <name>x_846092_tst_2405_task_p000120</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 05:42:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 05:42:01</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

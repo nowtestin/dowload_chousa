@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="573a61b4c30e02100515d71d0501314d" sys_domain="global" table="x_846092_tst_2405_task_p000120" version="3" view="download_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:12:52</sys_created_on>
+            <sys_id>573a61b4c30e02100515d71d05013151</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_2405_task_p000120" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">573a61b4c30e02100515d71d0501314d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:12:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>keihi_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:12:52</sys_created_on>
+            <sys_id>db3a61b4c30e02100515d71d05013151</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_2405_task_p000120" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">573a61b4c30e02100515d71d0501314d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:12:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:12:52</sys_created_on>
+            <sys_id>533a61b4c30e02100515d71d05013152</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_2405_task_p000120" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">573a61b4c30e02100515d71d0501314d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:12:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>futan_num</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:12:52</sys_created_on>
+            <sys_id>d73a61b4c30e02100515d71d05013152</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_2405_task_p000120" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">573a61b4c30e02100515d71d0501314d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:12:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>harai_kingaku</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:12:52</sys_created_on>
+            <sys_id>5f3a61b4c30e02100515d71d05013152</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_2405_task_p000120" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">573a61b4c30e02100515d71d0501314d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:12:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:12:52</sys_created_on>
+            <sys_id>d33a61b4c30e02100515d71d05013153</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_2405_task_p000120" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">573a61b4c30e02100515d71d0501314d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:12:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>harai_riyu</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:12:52</sys_created_on>
+            <sys_id>5b3a61b4c30e02100515d71d05013153</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_846092_tst_2405_task_p000120" sys_domain="global" view="e1a9adf0c30e02100515d71d050131ea">573a61b4c30e02100515d71d0501314d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:12:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_846092_tst_2405_task_p000120</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-06 06:12:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>573a61b4c30e02100515d71d0501314d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_846092_tst_2405_task_p000120</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+            <sys_update_name>sys_ui_section_573a61b4c30e02100515d71d0501314d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-06 06:12:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="download view" name="download_view">e1a9adf0c30e02100515d71d050131ea</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

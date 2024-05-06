@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>number,futan_num,keihi_type,harai_date,harai_kingaku</field_list>
+        <filter table="x_846092_tst_2405_task_p000120">keihi_type=1<item display_value="直接経費" endquery="false" field="keihi_type" goto="false" newquery="false" operator="=" or="false" value="1"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by>harai_date</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">cddba1f4c30e02100515d71d050131db</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Copy Data Table from Instance Definition">4e2ba1f4c30e02100515d71d050131ae</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-06 06:20:11</sys_created_on>
+        <sys_id>2aeb6138c30e02100515d71d050131de</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+        <sys_update_name>sp_instance_table_2aeb6138c30e02100515d71d050131de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-06 07:48:54</sys_updated_on>
+        <table>x_846092_tst_2405_task_p000120</table>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"keyword_setting":"支払金額,harai_kingaku,>",
+	"keyword2_setting":"支払予定年月日,harai_date,>="
+}]]></widget_parameters>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=2aeb6138c30e02100515d71d050131de"/>
+</record_update>
