@@ -13,6 +13,22 @@
                 <element inactive_on_update="false" label="間接経費" language="jp" value="2"/>
             </choice>
         </element>
-        <element label="shouninsha" max_length="32" name="shouninsha" reference="sys_user" type="reference"/>
+        <element label="Shouninsha" max_length="4000" name="shouninsha" reference="sys_user" type="glide_list"/>
+        <element choice="1" label="Urgency 01" max_length="40" name="urgency_01" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="緊急" value="2"/>
+                <element inactive_on_update="false" label="緊急" language="jp" value="2"/>
+                <element inactive_on_update="false" label="通常" value="1"/>
+                <element inactive_on_update="false" label="通常" language="jp" value="1"/>
+            </choice>
+        </element>
+        <element choice="1" label="Urgency 02" max_length="40" name="urgency_02" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="緊急" language="jp" value="2"/>
+                <element inactive_on_update="false" label="緊急" value="2"/>
+                <element inactive_on_update="false" label="通常" language="jp" value="1"/>
+                <element inactive_on_update="false" label="通常" value="1"/>
+            </choice>
+        </element>
     </element>
 </database>

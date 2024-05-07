@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="shouninsha" label="Shouninsha" language="en" table="x_846092_tst_2405_task_p000120">
+    <sys_documentation element="urgency_01" label="Urgency 01" language="en" table="x_846092_tst_2405_task_p000120">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>shouninsha</element>
+            <element>urgency_01</element>
             <help/>
             <hint/>
-            <label>Shouninsha</label>
+            <label>Urgency 01</label>
             <language>en</language>
             <name>x_846092_tst_2405_task_p000120</name>
-            <plural>Shouninshas</plural>
+            <plural>Urgency 01s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-06 08:35:18</sys_created_on>
+            <sys_created_on>2024-05-06 09:31:17</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Shouninsha</sys_name>
+            <sys_name>Urgency 01</sys_name>
             <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
             <sys_policy/>
             <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
-            <sys_update_name>sys_documentation_x_846092_tst_2405_task_p000120_shouninsha_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_846092_tst_2405_task_p000120_urgency_01_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-06 08:35:18</sys_updated_on>
+            <sys_updated_on>2024-05-06 09:31:17</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
