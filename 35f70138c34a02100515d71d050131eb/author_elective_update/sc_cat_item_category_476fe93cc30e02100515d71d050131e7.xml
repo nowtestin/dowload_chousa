@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="ダウンロード_WidgetとPortal Page_抽出条件有">e63f2578c30e02100515d71d05013110</sc_cat_item>
+        <sc_category display_value="ダウンロード関係">06c8e134c30e02100515d71d0501319b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-06 06:35:30</sys_created_on>
+        <sys_id>476fe93cc30e02100515d71d050131e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ダウンロード関係.ダウンロード_WidgetとPortal Page_抽出条件有</sys_name>
+        <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+        <sys_update_name>sc_cat_item_category_476fe93cc30e02100515d71d050131e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-06 06:35:30</sys_updated_on>
+    </sc_cat_item_category>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tst_2405">35f70138c34a02100515d71d050131eb</application>
+        <file_path/>
+        <instance_id>2c290e98ebd3ae549698ff72dad0cd48</instance_id>
+        <instance_name>dev354504</instance_name>
+        <name>sc_cat_item_category_476fe93cc30e02100515d71d050131e7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="ダウンロード_WidgetとPortal Page_抽出条件有">e63f2578c30e02100515d71d05013110</sc_cat_item>
+        <sc_category display_value="ダウンロード関係">06c8e134c30e02100515d71d0501319b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-06 06:35:30</sys_created_on>
+        <sys_id>476fe93cc30e02100515d71d050131e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ダウンロード関係.ダウンロード_WidgetとPortal Page_抽出条件有</sys_name>
+        <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+        <sys_update_name>sc_cat_item_category_476fe93cc30e02100515d71d050131e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-06 06:35:30</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>]]></payload>
+        <payload_hash>787679247</payload_hash>
+        <record_name>ダウンロード関係.ダウンロード_WidgetとPortal Page_抽出条件有</record_name>
+        <reverted_from/>
+        <source>d63393160f75f2107409c9c530d1b2a5</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-16 08:02:29</sys_created_on>
+        <sys_id>3fb357960f75f2107409c9c530d1b245</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b262ea3d90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-16 08:02:29</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>fbb357966975f210854ab0d16a5a6245</update_guid>
+        <update_guid_history>fbb357966975f210854ab0d16a5a6245:787679247</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ダウンロード関係.ダウンロード_WidgetとPortal Page_抽出条件有">57851b1e0f75f2107409c9c530d1b242</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-16 08:10:22</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>3a448959c7f74acfbd921529f6567b69</sys_id>
+        <sys_metadata>476fe93cc30e02100515d71d050131e7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ダウンロード関係.ダウンロード_WidgetとPortal Page_抽出条件有</sys_name>
+        <sys_package display_value="tst_2405" source="x_846092_tst_2405">35f70138c34a02100515d71d050131eb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tst_2405">35f70138c34a02100515d71d050131eb</sys_scope>
+        <sys_scope_delete display_value="">21501267586c4f6aa7051cb0969aece4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_476fe93cc30e02100515d71d050131e7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_476fe93cc30e02100515d71d050131e7">3fb357960f75f2107409c9c530d1b245</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-16 08:10:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
